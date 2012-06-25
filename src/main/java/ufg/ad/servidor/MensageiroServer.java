@@ -4,6 +4,7 @@ import java.rmi.Naming;
 
 import ufg.ad.cliente.Mensageiro;
 
+
 public class MensageiroServer {  
   
     public MensageiroServer() {  
